@@ -1,0 +1,15 @@
+.container-add-lesson {
+  margin-top: 25px;
+  select {
+    width: fit-content;
+    outline: none;
+    border-color: rgba(70, 148, 208, 0.844);
+    border-radius: 5px;
+  }
+  .error {
+    color: red;
+  }
+  .btn_done{
+    margin-top: 20px;
+  }
+}

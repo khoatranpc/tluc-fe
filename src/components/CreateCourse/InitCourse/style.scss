@@ -1,0 +1,23 @@
+.container-init-course {
+  margin-top: 25px;
+  div {
+    .select {
+      width: fit-content;
+      outline: none;
+      border-color: rgba(70, 148, 208, 0.844);
+      border-radius: 5px;
+    }
+    textarea {
+      resize: none;
+      width: 100%;
+      height: fit-content;
+    }
+    
+  }
+  .error {
+    color: red;
+  }
+  .group_btn{
+    margin-top: 20px;
+  }
+}

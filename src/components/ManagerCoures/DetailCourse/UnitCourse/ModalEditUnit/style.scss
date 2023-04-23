@@ -1,0 +1,16 @@
+.modal-edit-unit {
+
+    .title-unit {
+        width: 50%;
+        margin-right: 50px;
+    }
+    .row-file{
+        padding-left: 15px;
+        u{
+            cursor: pointer;
+            &:hover{
+                color: rgb(72, 72, 199);
+            }
+        }
+    }
+}
